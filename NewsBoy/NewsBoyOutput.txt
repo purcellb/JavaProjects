@@ -1,0 +1,12 @@
+Simulation type 1:
+	Average Profit(per day): $10.33 	Profit Variance: $0.06
+	Average Papers Sold: 15.92 			Sales Variance: 0.07
+	Average Papers Demanded: 17.53		Demand Variance: 1.65
+Simulation type 2:
+	Average Profit(per day): $10.50 	Profit Variance: $0.40
+	Average Papers Sold: 16.33 			Sales Variance: 0.74
+	Average Papers Demanded: 17.48		Demand Variance: 1.67
+Simulation type 3:
+	Average Profit(per day): $10.46 	Profit Variance: $0.45
+	Average Papers Sold: 16.27 			Sales Variance: 0.90
+	Average Papers Demanded: 17.47		Demand Variance: 1.68
